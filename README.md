@@ -15,6 +15,7 @@
 - 📫 How to reach me **shivrdx.sk6@gmail.com**
 
 - ⚡ Fun fact **I think I'm Funny!**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skreddy69" alt="skreddy69" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
