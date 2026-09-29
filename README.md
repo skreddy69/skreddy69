@@ -38,6 +38,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skreddy69&show_icons=true&locale=en" alt="skreddy69" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skreddy69&" alt="skreddy69" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Shoot+me+a+message+on+LinkedIn!;+I'm+always+down+to+collab+:);+Thanks+for+visiting!+👋" />
 </h1>
